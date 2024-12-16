@@ -25,10 +25,10 @@
           },
           {
             "type": "link",
-            "addDate": 1713575554549,
-            "title": "AiPPT - 全智能 AI 一键生成 PPT",
-            "icon": "https://logo.clearbit.com/www.aippt.cn",
-            "url": "https://www.aippt.cn/?seller=wwsy"
+            "addDate": 1724572298647,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/chat/cr5e4qb3vddvme5de1f0"
           },
           {
             "type": "link",
@@ -64,6 +64,48 @@
             "title": "豆包MarsCode - 工作台",
             "icon": "https://logo.clearbit.com/www.marscode.cn",
             "url": "https://www.marscode.cn/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1725969349698,
+            "title": "AI对话 - 吉狗AI",
+            "icon": "https://logo.clearbit.com/www.jidog.com",
+            "url": "https://www.jidog.com/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1727701715560,
+            "title": "Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots",
+            "icon": "https://logo.clearbit.com/lmarena.ai",
+            "url": "https://lmarena.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727701769144,
+            "title": "RawChat公益站点",
+            "icon": "https://logo.clearbit.com/kelaode.ai",
+            "url": "https://kelaode.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728117855281,
+            "title": "用户中心",
+            "icon": "https://logo.clearbit.com/chat1.sorryios.chat",
+            "url": "https://chat1.sorryios.chat/pastel/#/carlist"
+          },
+          {
+            "type": "link",
+            "addDate": 1732590797621,
+            "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/#term-2"
+          },
+          {
+            "type": "link",
+            "addDate": 1734307706271,
+            "title": "豆包 - 字节跳动旗下 AI 智能助手",
+            "icon": "https://logo.clearbit.com/www.doubao.com",
+            "url": "https://www.doubao.com/chat/?channel=browser_landing_page"
           }
         ]
       },
@@ -309,6 +351,90 @@
             "title": "Python MySQL – mysql-connector 驱动 | 菜鸟教程",
             "icon": "https://logo.clearbit.com/www.runoob.com",
             "url": "https://www.runoob.com/python3/python-mysql-connector.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1689922678609,
+            "title": "matplotlib",
+            "icon": "https://logo.clearbit.com/matplotlib.org",
+            "url": "https://matplotlib.org/stable/gallery/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1725419874426,
+            "title": "Redis中文学习网 - Redis开发与运维技术、Redis教程、使用手册",
+            "icon": "https://logo.clearbit.com/redis.com.cn",
+            "url": "https://redis.com.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726231808444,
+            "title": "JSP 教程 | 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/jsp/jsp-tutorial.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1726316227832,
+            "title": "宝塔linux面板命令大全 - 宝塔面板",
+            "icon": "https://logo.clearbit.com/www.bt.cn",
+            "url": "https://www.bt.cn/new/btcode.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1726742136479,
+            "title": "Overview (Java SE 11 & JDK 11 )",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/manual/jdk11api/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1727492960898,
+            "title": "邓瑞编程",
+            "icon": "https://logo.clearbit.com/www.dengruicode.com",
+            "url": "https://www.dengruicode.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727859715210,
+            "title": "懒人Excel - Excel 函数公式、操作技巧、数据分析、图表模板、VBA、数据透视表教程",
+            "icon": "https://logo.clearbit.com/www.lanrenexcel.com",
+            "url": "https://www.lanrenexcel.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860157953,
+            "title": "排版",
+            "icon": "https://logo.clearbit.com/api.xiaoheihe.cn",
+            "url": "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=123890712"
+          },
+          {
+            "type": "link",
+            "addDate": 1728817811697,
+            "title": "The Algorithms",
+            "icon": "https://logo.clearbit.com/the-algorithms.com",
+            "url": "https://the-algorithms.com/zh_Hans"
+          },
+          {
+            "type": "link",
+            "addDate": 1728978815596,
+            "title": " Vue.js",
+            "icon": "https://logo.clearbit.com/cn.vuejs.org",
+            "url": "https://cn.vuejs.org/guide/components/slots"
+          },
+          {
+            "type": "link",
+            "addDate": 1729068347536,
+            "title": "MyBatis resultMap元素 - Mybatis教程 - 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.cainiaoplus.com",
+            "url": "https://www.cainiaoplus.com/mybatis/mybatis-resultMap.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1729502893759,
+            "title": "后台手册 | RuoYi",
+            "icon": "https://logo.clearbit.com/doc.ruoyi.vip",
+            "url": "https://doc.ruoyi.vip/ruoyi/document/htsc.html#requiresroles"
           }
         ]
       },
@@ -317,6 +443,41 @@
         "addDate": 1717294170046,
         "title": "前端",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1727487864437,
+            "title": "v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1731569948384,
+            "title": "fragmentAi各种前沿模型免费使用",
+            "icon": "https://logo.clearbit.com/fragments.e2b.dev",
+            "url": "https://fragments.e2b.dev/#"
+          },
+          {
+            "type": "link",
+            "addDate": 1731050015363,
+            "title": "ai配色网站",
+            "icon": "https://logo.clearbit.com/aicolors.co",
+            "url": "https://aicolors.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731569572009,
+            "title": "boltAi在线实时预览与项目部署",
+            "icon": "https://logo.clearbit.com/bolt.new",
+            "url": "https://bolt.new/~/bolt-vue-hbovsb"
+          },
+          {
+            "type": "link",
+            "addDate": 1726450446641,
+            "title": "Examples - Apache ECharts",
+            "icon": "https://logo.clearbit.com/echarts.apache.org",
+            "url": "https://echarts.apache.org/examples/zh/index.html"
+          },
           {
             "type": "link",
             "addDate": 1711023142892,
@@ -456,6 +617,83 @@
             "title": "设计资源-HarmonyOS设计-开发者联盟",
             "icon": "https://logo.clearbit.com/developer.huawei.com",
             "url": "https://developer.huawei.com/consumer/cn/design/resource/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724554357406,
+            "title": "Vue.js Examples",
+            "icon": "https://logo.clearbit.com/vuejsexamples.com",
+            "url": "https://vuejsexamples.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727088941207,
+            "title": "上传markdown文件到博客园 - 郭大侠1 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/gered/p/14736136.html#_label3_0"
+          },
+          {
+            "type": "link",
+            "addDate": 1727091902367,
+            "title": "SMemory",
+            "icon": "https://logo.clearbit.com/bndong.github.io",
+            "url": "https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v2.1/dist/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727440813352,
+            "title": "html5动态背景特效",
+            "icon": "https://logo.clearbit.com/www.bootstrapmb.com",
+            "url": "https://www.bootstrapmb.com/tag/dongtaibeijing"
+          },
+          {
+            "type": "link",
+            "addDate": 1729318948678,
+            "title": "vue-office简介 | vue-office",
+            "icon": "https://logo.clearbit.com/501351981.github.io",
+            "url": "https://501351981.github.io/vue-office/examples/docs/guide/#%E4%BD%BF%E7%94%A8%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E9%A2%84%E8%A7%88"
+          },
+          {
+            "type": "link",
+            "addDate": 1729651117500,
+            "title": "Installation - Tailwind CSS",
+            "icon": "https://logo.clearbit.com/tailwindcss.com",
+            "url": "https://tailwindcss.com/docs/installation"
+          },
+          {
+            "type": "link",
+            "addDate": 1730009184565,
+            "title": "Fuse.js模糊搜索组件库",
+            "icon": "https://logo.clearbit.com/www.fusejs.io",
+            "url": "https://www.fusejs.io/examples.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1730270038986,
+            "title": "FlyonUI - Free Tailwind CSS Components Library",
+            "icon": "https://logo.clearbit.com/flyonui.com",
+            "url": "https://flyonui.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730337079437,
+            "title": "Lucide图标库",
+            "icon": "https://logo.clearbit.com/lucide.dev",
+            "url": "https://lucide.dev/icons/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732601611524,
+            "title": "在线图标网站",
+            "icon": "https://logo.clearbit.com/zhangyu1818.github.io",
+            "url": "https://zhangyu1818.github.io/appicon-forge/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732774601549,
+            "title": "Thymeleaf 教程 | 範宗雲",
+            "icon": "https://logo.clearbit.com/fanlychie.github.io",
+            "url": "https://fanlychie.github.io/post/thymeleaf.html"
           }
         ]
       },
@@ -487,6 +725,13 @@
           },
           {
             "type": "link",
+            "addDate": 1731811866331,
+            "title": "开发者空间-华为云",
+            "icon": "https://logo.clearbit.com/developer.huaweicloud.com",
+            "url": "https://developer.huaweicloud.com/space/devportal/desktop"
+          },
+          {
+            "type": "link",
             "addDate": 1715417267286,
             "title": "106个数据分析师专用数据源（全） - 知乎",
             "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
@@ -494,10 +739,24 @@
           },
           {
             "type": "link",
+            "addDate": 1729931385064,
+            "title": "Spring Security 中文文档 :: Spring Security Reference",
+            "icon": "https://logo.clearbit.com/springdoc.cn",
+            "url": "https://springdoc.cn/spring-security/"
+          },
+          {
+            "type": "link",
             "addDate": 1713350499182,
             "title": "Java工程师成神之路",
             "icon": "https://logo.clearbit.com/hollischuang.github.io",
             "url": "https://hollischuang.github.io/toBeTopJavaer/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731982659949,
+            "title": "MybatisPlus",
+            "icon": "https://logo.clearbit.com/b11et3un53m.feishu.cn",
+            "url": "https://b11et3un53m.feishu.cn/wiki/PsyawI04ei2FQykqfcPcmd7Dnsc"
           },
           {
             "type": "link",
@@ -530,7 +789,7 @@
           {
             "type": "link",
             "addDate": 1719624873169,
-            "title": "Convert curl commands to code",
+            "title": "爬虫Convert curl commands to code",
             "icon": "https://logo.clearbit.com/curlconverter.com",
             "url": "https://curlconverter.com/"
           },
@@ -547,6 +806,104 @@
             "title": "Crawlee · Build reliable crawlers. Fast.",
             "icon": "https://logo.clearbit.com/crawlee.dev",
             "url": "https://crawlee.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724503397664,
+            "title": "Apifox 快速入门 | Apifox 帮助文档",
+            "icon": "https://logo.clearbit.com/apifox.com",
+            "url": "https://apifox.com/help/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725237724782,
+            "title": "Java_对象存储(OSS)-阿里云帮助中心",
+            "icon": "https://logo.clearbit.com/help.aliyun.com",
+            "url": "https://help.aliyun.com/zh/oss/developer-reference/java/?spm=5176.8466032.console-base_help.dexternal.5c791450KwQYKC"
+          },
+          {
+            "type": "link",
+            "addDate": 1725237730830,
+            "title": "OSS管理控制台",
+            "icon": "https://logo.clearbit.com/oss.console.aliyun.com",
+            "url": "https://oss.console.aliyun.com/sdk"
+          },
+          {
+            "type": "link",
+            "addDate": 1726131378093,
+            "title": "cpolar - secure introspectable tunnels to localhost",
+            "icon": "https://logo.clearbit.com/dashboard.cpolar.com",
+            "url": "https://dashboard.cpolar.com/status"
+          },
+          {
+            "type": "link",
+            "addDate": 1728813712443,
+            "title": "若依搭建",
+            "icon": "https://logo.clearbit.com/www.yuque.com",
+            "url": "https://www.yuque.com/caoshuyao/java-project/sq5o9bv5so7rexyk#e5889de5a78be58c96e9a1b9e79bae-1"
+          },
+          {
+            "type": "link",
+            "addDate": 1729498827484,
+            "title": "EasyExcel官方文档 - 基于Java的Excel处理工具 | Easy Excel 官网",
+            "icon": "https://logo.clearbit.com/easyexcel.opensource.alibaba.com",
+            "url": "https://easyexcel.opensource.alibaba.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729588277794,
+            "title": "若依基础应用篇",
+            "icon": "https://logo.clearbit.com/ksg50j5gph.feishu.cn",
+            "url": "https://ksg50j5gph.feishu.cn/docx/LBpldchP4oGT9JxfaaQcT8hfnGd"
+          },
+          {
+            "type": "link",
+            "addDate": 1729588311050,
+            "title": "若依实战篇",
+            "icon": "https://logo.clearbit.com/ksg50j5gph.feishu.cn",
+            "url": "https://ksg50j5gph.feishu.cn/docx/NxIqdCZVzo2tRfxNL6Nc1BD1nnf"
+          },
+          {
+            "type": "link",
+            "addDate": 1729588335122,
+            "title": "若依原理篇",
+            "icon": "https://logo.clearbit.com/ksg50j5gph.feishu.cn",
+            "url": "https://ksg50j5gph.feishu.cn/docx/DKoFdbI1ooYnBLxnw8mco9bgnvh"
+          },
+          {
+            "type": "link",
+            "addDate": 1730112164303,
+            "title": "Maven Centra lWare",
+            "icon": "https://logo.clearbit.com/central.sonatype.com",
+            "url": "https://central.sonatype.com/?smo=true"
+          },
+          {
+            "type": "link",
+            "addDate": 1730112445271,
+            "title": "Maven Repository",
+            "icon": "https://logo.clearbit.com/mvnrepository.com",
+            "url": "https://mvnrepository.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730112504718,
+            "title": "Maven搜索-最快捷的Maven搜索-由源码阅读网提供技术服务",
+            "icon": "https://logo.clearbit.com/mvn.coderead.cn",
+            "url": "https://mvn.coderead.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730114028060,
+            "title": "Hutool工具包聚合",
+            "icon": "https://logo.clearbit.com/www.hutool.cn",
+            "url": "https://www.hutool.cn/docs/#/?id=%f0%9f%9b%a0%ef%b8%8f%e5%8c%85%e5%90%ab%e7%bb%84%e4%bb%b6"
+          },
+          {
+            "type": "link",
+            "addDate": 1731811876483,
+            "title": "我的VPC-控制台",
+            "icon": "https://logo.clearbit.com/console.huaweicloud.com",
+            "url": "https://console.huaweicloud.com/vpc/?agencyId=e930dfb0009145abb7baded74ac5e610&locale=zh-cn&region=cn-east-3#/vpc/vpcs/list"
           }
         ]
       },
@@ -589,6 +946,13 @@
             "title": "Codeforces",
             "icon": "https://logo.clearbit.com/codeforces.com",
             "url": "https://codeforces.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726888639282,
+            "title": "编程入门题库_蓝桥杯ACM在线编程训练 - C语言网",
+            "icon": "https://logo.clearbit.com/www.dotcpp.com",
+            "url": "https://www.dotcpp.com/oj/problemset.html"
           },
           {
             "type": "link",
@@ -680,6 +1044,13 @@
             "title": "Java技能树",
             "icon": "https://logo.clearbit.com/edu.csdn.net",
             "url": "https://edu.csdn.net/skill/java?category=480"
+          },
+          {
+            "type": "link",
+            "addDate": 1724660648593,
+            "title": "首页 - 计算机软件能力认证考试系统",
+            "icon": "https://logo.clearbit.com/118.190.20.162",
+            "url": "http://118.190.20.162/home.page"
           }
         ]
       },
@@ -718,6 +1089,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1726645114608,
+            "title": "面试鸭 - 程序员求职面试刷题神器，高频编程题目免费刷",
+            "icon": "https://logo.clearbit.com/www.mianshiya.com",
+            "url": "https://www.mianshiya.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1677197670591,
             "title": "辽宁工程技术大学教务处",
             "icon": "https://logo.clearbit.com/jwzx.lntu.edu.cn",
@@ -725,10 +1103,17 @@
           },
           {
             "type": "link",
-            "addDate": 1699518359571,
-            "title": "软件学院课程一览表",
-            "icon": "https://logo.clearbit.com/www.kdocs.cn",
-            "url": "https://www.kdocs.cn/l/cgSXC6orrDAB"
+            "addDate": 1728461978622,
+            "title": "百度网盘",
+            "icon": "https://logo.clearbit.com/pan.baidu.com",
+            "url": "https://pan.baidu.com/disk/main?_at_=1728461780540#/im/session"
+          },
+          {
+            "type": "link",
+            "addDate": 1728477784244,
+            "title": "计算机网络_中国大学MOOC(慕课)",
+            "icon": "https://logo.clearbit.com/www.icourse163.org",
+            "url": "https://www.icourse163.org/learn/HNKJ-1461816178?tid=1473116461#/learn/content?type=detail&id=1259881455&cid=1295555818&contentid=1245542421"
           },
           {
             "type": "link",
@@ -827,6 +1212,90 @@
             "title": "算法论坛 - 数学建模社区-数学中国",
             "icon": "https://logo.clearbit.com/www.madio.net",
             "url": "http://www.madio.net/forum.php?gid=716"
+          },
+          {
+            "type": "link",
+            "addDate": 1724372673465,
+            "title": "CNN 10 - YouTube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/@CNN10/videos"
+          },
+          {
+            "type": "link",
+            "addDate": 1725780428194,
+            "title": "全国大学生数学建模竞赛",
+            "icon": "https://logo.clearbit.com/cumcm.cnki.net",
+            "url": "https://cumcm.cnki.net/cumcm//studentHome/studentHome"
+          },
+          {
+            "type": "link",
+            "addDate": 1725806850625,
+            "title": "中国计算机技术职业资格网",
+            "icon": "https://logo.clearbit.com/www.ruankao.org.cn",
+            "url": "https://www.ruankao.org.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860019233,
+            "title": "大学资源网-自我提升的学习平台",
+            "icon": "https://logo.clearbit.com/www.dxzy163.com",
+            "url": "https://www.dxzy163.com/#:~:text=%E5%88%86%E7%B1%BB%EF%BC%9A%E5%85%B6%E5%AE%83%E7%B3%BB%E5%88%97.%20%E5%A4%A7"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860398282,
+            "title": "中国古典文学 - 国学经典,诗词,中国古代文学作品在线阅读",
+            "icon": "https://logo.clearbit.com/www.zggdwx.com",
+            "url": "https://www.zggdwx.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860552890,
+            "title": "PubScholar公益学术平台",
+            "icon": "https://logo.clearbit.com/pubscholar.cn",
+            "url": "https://pubscholar.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727869273080,
+            "title": "中国研究生招生信息网",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/#:~:text=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E4%BF%A1%E6%81%AF%E7%BD%91"
+          },
+          {
+            "type": "link",
+            "addDate": 1727869409831,
+            "title": "小不点搜索 - 正版资源搜索引擎 - 好资源一网打尽",
+            "icon": "https://logo.clearbit.com/www.xiaoso.net",
+            "url": "https://www.xiaoso.net/#:~:text=%E6%9B%B4%E4%B8%93%E4%B8%9A%E7%9A%84%E6%AD%A3%E7%89%88%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2"
+          },
+          {
+            "type": "link",
+            "addDate": 1727869471367,
+            "title": "超能搜 - 百度网盘搜索神器",
+            "icon": "https://logo.clearbit.com/chaonengsou.com",
+            "url": "https://chaonengsou.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727869535647,
+            "title": "学吧导航 | 四十万学习爱好者都在用的学霸导航网站",
+            "icon": "https://logo.clearbit.com/www.xue8nav.com",
+            "url": "https://www.xue8nav.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727869676368,
+            "title": "考研论坛_考研人的精神家园！",
+            "icon": "https://logo.clearbit.com/down.bbs.kaoyan.com",
+            "url": "https://down.bbs.kaoyan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727869809968,
+            "title": "- 中国考研网",
+            "icon": "https://logo.clearbit.com/www.chinakaoyan.com",
+            "url": "https://www.chinakaoyan.com/info/list.shtml#:~:text=%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E7%A0%94%E7%A9%B6%E7%94%9F%E9%99%A2."
           }
         ]
       },
@@ -835,6 +1304,34 @@
         "addDate": 1720753546598,
         "title": "实用工具",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1724154389276,
+            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
+            "icon": "https://logo.clearbit.com/zh.z-lib.gs",
+            "url": "https://zh.z-lib.gs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729903794904,
+            "title": "前台解析中心 | 千幻云赞助专享站",
+            "icon": "https://logo.clearbit.com/hy.oxah.cn",
+            "url": "https://hy.oxah.cn/user"
+          },
+          {
+            "type": "link",
+            "addDate": 1726624799323,
+            "title": "前台解析中心 | 千幻云公益解析站",
+            "icon": "https://logo.clearbit.com/jx.oxah.cn",
+            "url": "https://jx.oxah.cn/user"
+          },
+          {
+            "type": "link",
+            "addDate": 1723249654688,
+            "title": "有道查词",
+            "icon": "https://logo.clearbit.com/dict.youdao.com",
+            "url": "https://dict.youdao.com/"
+          },
           {
             "type": "link",
             "addDate": 1720753520719,
@@ -855,6 +1352,13 @@
             "title": "Desmos | 科学计算器",
             "icon": "https://logo.clearbit.com/www.desmos.com",
             "url": "https://www.desmos.com/scientific?lang=zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1728548594501,
+            "title": "Desmos | 图形计算器",
+            "icon": "https://logo.clearbit.com/www.desmos.com",
+            "url": "https://www.desmos.com/calculator?lang=zh-CN"
           },
           {
             "type": "link",
@@ -907,31 +1411,10 @@
           },
           {
             "type": "link",
-            "addDate": 1723107495181,
-            "title": "墨辰整理书源大全5.0（禁止倒卖） - 阅读 - 源仓库",
-            "icon": "https://logo.clearbit.com/www.e-yck.top",
-            "url": "https://www.e-yck.top/yuedu/shuyuans/content/id/546.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1723249654688,
-            "title": "assign",
-            "icon": "https://logo.clearbit.com/dict.youdao.com",
-            "url": "https://dict.youdao.com/result?word=assign&lang=en"
-          },
-          {
-            "type": "link",
             "addDate": 1723534374631,
             "title": "在线键盘测试 | zFrontier 装备前线",
             "icon": "https://logo.clearbit.com/www.zfrontier.com",
             "url": "https://www.zfrontier.com/lab/keyboardTester"
-          },
-          {
-            "type": "link",
-            "addDate": 1723700008761,
-            "title": "chenjian120918/-Using-Python-for-mathematical-modeling: 利用python进行数学建模",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/chenjian120918/-Using-Python-for-mathematical-modeling"
           },
           {
             "type": "link",
@@ -963,10 +1446,206 @@
           },
           {
             "type": "link",
-            "addDate": 1724154389276,
-            "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
-            "icon": "https://logo.clearbit.com/zh.z-lib.gs",
-            "url": "https://zh.z-lib.gs/"
+            "addDate": 1724380715516,
+            "title": "NEXT, ITELLYOU",
+            "icon": "https://logo.clearbit.com/next.itellyou.cn",
+            "url": "https://next.itellyou.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724380833899,
+            "title": "wistbean/learn_python3_spider: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/wistbean/learn_python3_spider"
+          },
+          {
+            "type": "link",
+            "addDate": 1724488284059,
+            "title": "MD5在线加密/解密/破解—MD5在线",
+            "icon": "https://logo.clearbit.com/www.sojson.com",
+            "url": "https://www.sojson.com/encrypt_md5.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1725753868678,
+            "title": "代码在线高亮工具 | 将高亮美化的代码一键粘贴到 Word 或 OneNote 中",
+            "icon": "https://logo.clearbit.com/highlightcode.com",
+            "url": "https://highlightcode.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725806405241,
+            "title": "仪表盘 - 探索者",
+            "icon": "https://logo.clearbit.com/www.tszjs.com",
+            "url": "https://www.tszjs.com/#/stage/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1713595203033,
+            "title": "魔戒.net",
+            "icon": "https://logo.clearbit.com/mojie.app",
+            "url": "https://mojie.app/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1726228486853,
+            "title": "外卖订单 音效素材 免费下载 - 爱给网",
+            "icon": "https://logo.clearbit.com/www.aigei.com",
+            "url": "https://www.aigei.com/sound/class/wai_mai_di/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726364080630,
+            "title": "在线Cron表达式生成器",
+            "icon": "https://logo.clearbit.com/cron.qqe2.com",
+            "url": "https://cron.qqe2.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726364168766,
+            "title": "正则表达式生成器，常用正则表达式在线生成",
+            "icon": "https://logo.clearbit.com/www.sojson.com",
+            "url": "https://www.sojson.com/regex/generate"
+          },
+          {
+            "type": "link",
+            "addDate": 1727859743952,
+            "title": "PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】",
+            "icon": "https://logo.clearbit.com/www.ypppt.com",
+            "url": "https://www.ypppt.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727859970705,
+            "title": "iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具",
+            "icon": "https://logo.clearbit.com/www.ilovepdf.com",
+            "url": "https://www.ilovepdf.com/zh-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860057465,
+            "title": "Free Stock Video Footage HD 4K Download Royalty-Free Clips",
+            "icon": "https://logo.clearbit.com/www.videvo.net",
+            "url": "https://www.videvo.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860275578,
+            "title": "Convertio — 文件转换器",
+            "icon": "https://logo.clearbit.com/convertio.co",
+            "url": "https://convertio.co/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727860304761,
+            "title": "爱资料工具-好用的在线工具箱",
+            "icon": "https://logo.clearbit.com/www.toolnb.com",
+            "url": "https://www.toolnb.com/#:~:text=%E7%88%B1%E8%B5%84%E6%96%99%E5%B7%A5%E5%85%B7(tool"
+          },
+          {
+            "type": "link",
+            "addDate": 1727866550334,
+            "title": "购买订阅 | 爱哥哥5.0 懂的都懂!",
+            "icon": "https://logo.clearbit.com/a.lovegg.click",
+            "url": "https://a.lovegg.click/#/plan"
+          },
+          {
+            "type": "link",
+            "addDate": 1727876564709,
+            "title": "美剧天堂 - 海量好看的美剧在线观看、最新美剧下载！",
+            "icon": "https://logo.clearbit.com/www.meijutt.net",
+            "url": "https://www.meijutt.net/index.html#:~:text=%E7%BE%8E%E5%89%A7%E5%A4%A9%E5%A0%82(MeiJu"
+          },
+          {
+            "type": "link",
+            "addDate": 1727876644188,
+            "title": "茶杯狐 | Cupfox_努力让找电影追剧变得简单",
+            "icon": "https://logo.clearbit.com/www.cupfoxyy.com",
+            "url": "https://www.cupfoxyy.com/#:~:text=%E8%8C%B6%E6%9D%AF%E7%8B%90%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90"
+          },
+          {
+            "type": "link",
+            "addDate": 1727876727941,
+            "title": "在线看电影 - LIBVIO",
+            "icon": "https://logo.clearbit.com/www.libvio.fun",
+            "url": "https://www.libvio.fun/type/1-4.html#:~:text=%E4%B8%BA%E6%82%A8%E6%8F%90%E4%BE%9B%E6%9B%B4%E6%96%B0%E7%94%B5%E5%BD%B1%E3%80%81%E5%A5%BD"
+          },
+          {
+            "type": "link",
+            "addDate": 1727877156085,
+            "title": "CCTV节目官网_央视网",
+            "icon": "https://logo.clearbit.com/tv.cctv.com",
+            "url": "https://tv.cctv.com/index.shtml?spm=C95797228340.P3XSH3djsU2B.0.0"
+          },
+          {
+            "type": "link",
+            "addDate": 1728011469947,
+            "title": "公式识别",
+            "icon": "https://logo.clearbit.com/simpletex.cn",
+            "url": "https://simpletex.cn/ai/latex_ocr"
+          },
+          {
+            "type": "link",
+            "addDate": 1728121250323,
+            "title": "鲸选仓库-专业优质资源收集者",
+            "icon": "https://logo.clearbit.com/www.jxck8.cn",
+            "url": "https://www.jxck8.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728121363099,
+            "title": "PanTools - 多网盘多账号批量管理工具",
+            "icon": "https://logo.clearbit.com/www.52king.vip",
+            "url": "https://www.52king.vip/PanTools/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728485028200,
+            "title": "批量给图片加水印 - 在线工具",
+            "icon": "https://logo.clearbit.com/toolonline.net",
+            "url": "https://toolonline.net/watermark-image"
+          },
+          {
+            "type": "link",
+            "addDate": 1729995648668,
+            "title": "在线Bcrypt加密/校验 - 蜻蜓在线工具 | 个人技术的分享",
+            "icon": "https://logo.clearbit.com/33tool.com",
+            "url": "https://33tool.com/bcrypt/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730271050057,
+            "title": "收藏猫插件-Chrome插件商店,谷歌浏览器插件,谷歌应用商店插件推荐及下载",
+            "icon": "https://logo.clearbit.com/chrome.pictureknow.com",
+            "url": "https://chrome.pictureknow.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732100650973,
+            "title": "pdf识别",
+            "icon": "https://logo.clearbit.com/opendatalab.com",
+            "url": "https://opendatalab.com/OpenSourceTools/Extractor/PDF"
+          },
+          {
+            "type": "link",
+            "addDate": 1732156049099,
+            "title": "markdown在线转word - www.strerr.com",
+            "icon": "https://logo.clearbit.com/www.strerr.com",
+            "url": "https://www.strerr.com/cn/markdown2word.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732666245497,
+            "title": " 小飞侠VPN",
+            "icon": "https://logo.clearbit.com/www.xfxssr.me",
+            "url": "https://www.xfxssr.me/#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1732665963617,
+            "title": "v速云，最新更新，覆盖美英加等国节点分享！一键接入全球网络 | v速云都将是您最佳的选择。立即体验，开启你的全球网络之旅",
+            "icon": "https://logo.clearbit.com/www.vfast.life",
+            "url": "https://www.vfast.life/nav/"
           }
         ]
       },
@@ -983,20 +1662,6 @@
         "title": "扇贝阅读",
         "icon": "https://logo.clearbit.com/web.shanbay.com",
         "url": "https://web.shanbay.com/reading/web-news/articles"
-      },
-      {
-        "type": "link",
-        "addDate": 1684930280029,
-        "title": "中国知网",
-        "icon": "https://logo.clearbit.com/www.cnki.net",
-        "url": "https://www.cnki.net/"
-      },
-      {
-        "type": "link",
-        "addDate": 1689922678609,
-        "title": "matplotlib",
-        "icon": "https://logo.clearbit.com/matplotlib.org",
-        "url": "https://matplotlib.org/stable/gallery/index"
       },
       {
         "type": "link",
@@ -1105,13 +1770,6 @@
       },
       {
         "type": "link",
-        "addDate": 1692403024845,
-        "title": "原神社区-米游社",
-        "icon": "https://logo.clearbit.com/www.miyoushe.com",
-        "url": "https://www.miyoushe.com/ys/"
-      },
-      {
-        "type": "link",
         "addDate": 1694773382013,
         "title": "辽宁工程技术大学素质拓展管理系统",
         "icon": "https://logo.clearbit.com/10.11.23.32",
@@ -1182,13 +1840,6 @@
       },
       {
         "type": "link",
-        "addDate": 1713595203033,
-        "title": "魔戒.net",
-        "icon": "https://logo.clearbit.com/mojie.app",
-        "url": "https://mojie.app/dashboard"
-      },
-      {
-        "type": "link",
         "addDate": 1714056590064,
         "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
         "icon": "https://logo.clearbit.com/ttsmaker.cn",
@@ -1200,6 +1851,20 @@
         "title": "英语听力mp3下载-英语听力下载-免费英语听力下载网站_听力课堂",
         "icon": "https://logo.clearbit.com/www.tingclass.net",
         "url": "https://www.tingclass.net/zt/mp3/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1732927986171,
+        "title": "game",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732927966530,
+            "title": "怪物猎人世界 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+            "icon": "https://logo.clearbit.com/mhw.huijiwiki.com",
+            "url": "https://mhw.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+          }
+        ]
       }
     ]
   },
@@ -1280,10 +1945,10 @@
       },
       {
         "type": "link",
-        "addDate": 1722431745498,
-        "title": "adithya-s-k/marker-api: Easily deployable 🚀 API to convert PDF to markdown quickly with high accuracy.",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/adithya-s-k/marker-api"
+        "addDate": 1725762418264,
+        "title": "检索-中国知网",
+        "icon": "https://logo.clearbit.com/kns.cnki.net",
+        "url": "https://kns.cnki.net/kns8s/defaultresult/index?crossids=YSTT4HG0%2CLSTPFY1C%2CJUP3MUPD%2CMPMFIG1A%2CWQ0UVIAA%2CBLZOG7CK%2CPWFIRAGL%2CEMRPGLPA%2CNLBO1Z6R%2CNN3FJMUV&korder=SU&kw=Mafongoya%2C%20P.%20L.%2C%20%26%20Bhat%2C%20T.%20L.%20%282002%29.%20Sorghum%3A%20A%20potential%20alternative%20to%20wheat%20and%20maize.%20British"
       }
     ]
   }
