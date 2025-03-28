@@ -6,9 +6,135 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1740231047621,
+        "title": "考研",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1740231047621,
+            "title": "院校官网",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1740233746303,
+                "title": "东北大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10145&dwmc=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6&schId=368037&ssmc=%E8%BE%BD%E5%AE%81&xxfs=&dwlxs%5B0%5D=zhx&dwlxs%5B1%5D=syl&dwlxs%5B2%5D=bs&tydxs=&jsggjh=&sign=cf6d70ea6441ac9886c893e0b396a54a"
+              },
+              {
+                "type": "link",
+                "addDate": 1740233925579,
+                "title": "吉林大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10183&dwmc=%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6&ssmc=%E5%90%89%E6%9E%97&schId=368065&xxfs=&mldm=&dwlxs%5B0%5D=zhx&dwlxs%5B1%5D=syl&dwlxs%5B2%5D=bs&tydxs=&jsggjh=&sign=f3a8f6f69c143a249f1515f782f83a73"
+              },
+              {
+                "type": "link",
+                "addDate": 1740232690834,
+                "title": "哈工大",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/zydetail.do?zydm=083500&zymc=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&xwlx=xs&mldm=08&mlmc=%E5%B7%A5%E5%AD%A6&yjxkdm=0835&yjxkmc=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B&xxfs=&tydxs=&jsggjh=&sign=d328955e626d97e1613c0037551cb77a"
+              },
+              {
+                "type": "link",
+                "addDate": 1742522529188,
+                "title": "内蒙古大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/a/dwzy.do?dwdm=10126&dwmc=%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%A7%E5%AD%A6&schId=368005&ssmc=%E5%86%85%E8%92%99&dwlxs%5B0%5D=syl&dwlxs%5B1%5D=bs&xxfs=&tydxs=&jsggjh=&sign=55c3a5e26a693052d2d6d3afd1869ad8"
+              },
+              {
+                "type": "link",
+                "addDate": 1740232010954,
+                "title": "郑州大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10459&dwmc=%E9%83%91%E5%B7%9E%E5%A4%A7%E5%AD%A6&ssmc=%E6%B2%B3%E5%8D%97&schId=368317&xxfs=&mldm=&dwlxs%5B0%5D=syl&dwlxs%5B1%5D=bs&tydxs=&jsggjh=&sign=571933dedcc38c327633428460381f69"
+              },
+              {
+                "type": "link",
+                "addDate": 1740233848616,
+                "title": "深圳大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10590&dwmc=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6&ssmc=%E5%B9%BF%E4%B8%9C&schId=368417&xxfs=&mldm=&dwlxs%5B0%5D=bs&tydxs=&jsggjh=&sign=97e1c103d53e9a6d2b1581c7f168b92c"
+              },
+              {
+                "type": "link",
+                "addDate": 1740233879777,
+                "title": "桂林电子科技大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10595&dwmc=%E6%A1%82%E6%9E%97%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6&ssmc=%E5%B9%BF%E8%A5%BF&schId=368435&xxfs=&mldm=&dwlxs%5B0%5D=bs&tydxs=&jsggjh=&sign=b92d459e91ec76b26069f68c5d0d9466"
+              },
+              {
+                "type": "link",
+                "addDate": 1740233954250,
+                "title": "暨南大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10559&dwmc=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6&ssmc=%E5%B9%BF%E4%B8%9C&schId=368414&xxfs=&mldm=&dwlxs%5B0%5D=syl&dwlxs%5B1%5D=bs&tydxs=&jsggjh=&sign=06eabc3266f14596694bb8587ba5ff55"
+              },
+              {
+                "type": "link",
+                "addDate": 1740231023350,
+                "title": "苏州大学",
+                "icon": "https://logo.clearbit.com/suda.yanzhaowang.com",
+                "url": "https://suda.yanzhaowang.com/mulu/engr/mcs"
+              },
+              {
+                "type": "link",
+                "addDate": 1740233788992,
+                "title": "重庆邮电",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10617&dwmc=%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6&schId=368454&ssmc=%E9%87%8D%E5%BA%86&xxfs=&dwlxs%5B0%5D=bs&tydxs=&jsggjh=&sign=688c8b002845620527ba87fb8c7a8de7"
+              },
+              {
+                "type": "link",
+                "addDate": 1740233703583,
+                "title": "天津大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10056&dwmc=%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6&schId=367959&ssmc=%E5%A4%A9%E6%B4%A5&xxfs=&dwlxs%5B0%5D=zhx&dwlxs%5B1%5D=syl&dwlxs%5B2%5D=bs&tydxs=&jsggjh=&sign=f98ddd6f4da496c8f726c0c2988f61aa"
+              },
+              {
+                "type": "link",
+                "addDate": 1740234153901,
+                "title": "南京邮电大学",
+                "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+                "url": "https://yz.chsi.com.cn/zsml/dwzy.do?dwdm=10293&dwmc=%E5%8D%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6&ssmc=%E6%B1%9F%E8%8B%8F&schId=368188&xxfs=&mldm=&dwlxs%5B0%5D=syl&dwlxs%5B1%5D=bs&tydxs=&jsggjh=&sign=7176deac5ad222af3e3d7814ad6734f9"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1727869273080,
+            "title": "中国研究生招生信息网",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/#:~:text=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E4%BF%A1%E6%81%AF%E7%BD%91"
+          },
+          {
+            "type": "link",
+            "addDate": 1741178470890,
+            "title": "王道论坛,专注于计算机考研的点点滴滴! - Powered by Discuz!",
+            "icon": "https://logo.clearbit.com/cskaoyan.com",
+            "url": "http://cskaoyan.com/forum.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1741178574649,
+            "title": "王道计算机考研院校群大全",
+            "icon": "https://logo.clearbit.com/www.kdocs.cn",
+            "url": "https://www.kdocs.cn/l/cs2E6cUzsJug?R=L1MvMw=="
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1717294270195,
         "title": "AI",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1738291694871,
+            "title": "DeepSeek - 探索未至之境",
+            "icon": "https://logo.clearbit.com/chat.deepseek.com",
+            "url": "https://chat.deepseek.com/sign_in"
+          },
           {
             "type": "link",
             "addDate": 1699155303213,
@@ -106,6 +232,13 @@
             "title": "豆包 - 字节跳动旗下 AI 智能助手",
             "icon": "https://logo.clearbit.com/www.doubao.com",
             "url": "https://www.doubao.com/chat/?channel=browser_landing_page"
+          },
+          {
+            "type": "link",
+            "addDate": 1735799106579,
+            "title": "绘图Mermaid Chart",
+            "icon": "https://logo.clearbit.com/www.mermaidchart.com",
+            "url": "https://www.mermaidchart.com/app/projects/577bafb2-f0ed-4cc1-9134-45991fe66f64/diagrams/e6585290-e022-4507-b841-30015a7d2220/version/v0.1/ai"
           }
         ]
       },
@@ -694,6 +827,13 @@
             "title": "Thymeleaf 教程 | 範宗雲",
             "icon": "https://logo.clearbit.com/fanlychie.github.io",
             "url": "https://fanlychie.github.io/post/thymeleaf.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1736346358688,
+            "title": "网页中文排版增强工具",
+            "icon": "https://logo.clearbit.com/sivan.github.io",
+            "url": "https://sivan.github.io/heti/"
           }
         ]
       },
@@ -1051,6 +1191,20 @@
             "title": "首页 - 计算机软件能力认证考试系统",
             "icon": "https://logo.clearbit.com/118.190.20.162",
             "url": "http://118.190.20.162/home.page"
+          },
+          {
+            "type": "link",
+            "addDate": 1740322812269,
+            "title": "晴问算法",
+            "icon": "https://logo.clearbit.com/sunnywhy.com",
+            "url": "https://sunnywhy.com/camp/774"
+          },
+          {
+            "type": "link",
+            "addDate": 1741070573087,
+            "title": "算法可视化网站",
+            "icon": "https://logo.clearbit.com/www.cs.usfca.edu",
+            "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
           }
         ]
       },
@@ -1257,13 +1411,6 @@
           },
           {
             "type": "link",
-            "addDate": 1727869273080,
-            "title": "中国研究生招生信息网",
-            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
-            "url": "https://yz.chsi.com.cn/#:~:text=%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E4%BF%A1%E6%81%AF%E7%BD%91"
-          },
-          {
-            "type": "link",
             "addDate": 1727869409831,
             "title": "小不点搜索 - 正版资源搜索引擎 - 好资源一网打尽",
             "icon": "https://logo.clearbit.com/www.xiaoso.net",
@@ -1304,6 +1451,13 @@
         "addDate": 1720753546598,
         "title": "实用工具",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1735799056509,
+            "title": "Editor | Mermaid Chart",
+            "icon": "https://logo.clearbit.com/www.mermaidchart.com",
+            "url": "https://www.mermaidchart.com/app/projects/577bafb2-f0ed-4cc1-9134-45991fe66f64/diagrams/e6585290-e022-4507-b841-30015a7d2220/version/v0.1/edit"
+          },
           {
             "type": "link",
             "addDate": 1724154389276,
@@ -1650,6 +1804,20 @@
         ]
       },
       {
+        "type": "folder",
+        "addDate": 1732927986171,
+        "title": "game",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732927966530,
+            "title": "怪物猎人世界 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+            "icon": "https://logo.clearbit.com/mhw.huijiwiki.com",
+            "url": "https://mhw.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+          }
+        ]
+      },
+      {
         "type": "link",
         "addDate": 1717142667242,
         "title": "Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件",
@@ -1851,20 +2019,6 @@
         "title": "英语听力mp3下载-英语听力下载-免费英语听力下载网站_听力课堂",
         "icon": "https://logo.clearbit.com/www.tingclass.net",
         "url": "https://www.tingclass.net/zt/mp3/"
-      },
-      {
-        "type": "folder",
-        "addDate": 1732927986171,
-        "title": "game",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1732927966530,
-            "title": "怪物猎人世界 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
-            "icon": "https://logo.clearbit.com/mhw.huijiwiki.com",
-            "url": "https://mhw.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
-          }
-        ]
       }
     ]
   },
@@ -1931,13 +2085,6 @@
       },
       {
         "type": "link",
-        "addDate": 1721994076400,
-        "title": "咕咕番 - 在线日漫",
-        "icon": "https://logo.clearbit.com/www.gugufan.com",
-        "url": "https://www.gugufan.com/?ref=acgdhw.com"
-      },
-      {
-        "type": "link",
         "addDate": 1722431740402,
         "title": "Marker：Windows环境折腾PDF转Markdown - 经验分享 - Obsidian 中文论坛",
         "icon": "https://logo.clearbit.com/forum-zh.obsidian.md",
@@ -1949,6 +2096,20 @@
         "title": "检索-中国知网",
         "icon": "https://logo.clearbit.com/kns.cnki.net",
         "url": "https://kns.cnki.net/kns8s/defaultresult/index?crossids=YSTT4HG0%2CLSTPFY1C%2CJUP3MUPD%2CMPMFIG1A%2CWQ0UVIAA%2CBLZOG7CK%2CPWFIRAGL%2CEMRPGLPA%2CNLBO1Z6R%2CNN3FJMUV&korder=SU&kw=Mafongoya%2C%20P.%20L.%2C%20%26%20Bhat%2C%20T.%20L.%20%282002%29.%20Sorghum%3A%20A%20potential%20alternative%20to%20wheat%20and%20maize.%20British"
+      },
+      {
+        "type": "link",
+        "addDate": 1736685477322,
+        "title": "咕咕番 - 在线日漫",
+        "icon": "https://logo.clearbit.com/www.gugu3.com",
+        "url": "https://www.gugu3.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1741429741258,
+        "title": "春日影 - MyGO!!!!! Sheet music for Piano (Solo) | Musescore.com",
+        "icon": "https://logo.clearbit.com/musescore.com",
+        "url": "https://musescore.com/user/79422529/scores/14696314"
       }
     ]
   }
